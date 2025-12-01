@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Flying In The Sky",
+  "base_artist": "Yoshifumi Ushima",
+  "createdAt": "2025-12-01T18:28:57.525341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "鵜島仁文",
+      "has_synced": true,
+      "path": "select/01_FLYING_IN_THE_SKY_鵜島仁文.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FLYING IN the SKY",
+      "artist": "Little Non",
+      "has_synced": true,
+      "path": "select/02_FLYING_IN_the_SKY_Little_Non.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "影山ヒロノブ",
+      "has_synced": false,
+      "path": "select/03_FLYING_IN_THE_SKY_影山ヒロノブ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "鵜島仁文",
+      "has_synced": true,
+      "path": "select/04_FLYING_IN_THE_SKY_鵜島仁文.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flying in the Sky",
+      "artist": "Sagittarius",
+      "has_synced": false,
+      "path": "select/05_Flying_in_the_Sky_Sagittarius.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "Spira Spica",
+      "has_synced": true,
+      "path": "select/06_FLYING_IN_THE_SKY_Spira_Spica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flying In The Sky",
+      "artist": "鵜島仁文",
+      "has_synced": true,
+      "path": "select/07_Flying_In_The_Sky_鵜島仁文.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flying In The Sky",
+      "artist": "Russian Village Boys",
+      "has_synced": false,
+      "path": "select/08_Flying_In_The_Sky_Russian_Village_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "Yoshifumi Ushima",
+      "has_synced": true,
+      "path": "select/09_FLYING_IN_THE_SKY_Yoshifumi_Ushima.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "Ushima Yoshifumi",
+      "has_synced": true,
+      "path": "select/10_FLYING_IN_THE_SKY_Ushima_Yoshifumi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "Yoshifumi Ushima",
+      "has_synced": true,
+      "path": "select/11_FLYING_IN_THE_SKY_Yoshifumi_Ushima.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FLYING IN THE SKY",
+      "artist": "Hitofumi Ushima",
+      "has_synced": true,
+      "path": "select/12_FLYING_IN_THE_SKY_Hitofumi_Ushima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLYING IN THE SKY",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_01_FLYING_IN_THE_SKY_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "FLYING IN THE SKY",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_02_FLYING_IN_THE_SKY_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Flying In The Sky",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_03_Flying_In_The_Sky_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "FLYING IN THE SKY",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_04_FLYING_IN_THE_SKY_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "FLYING IN THE SKY",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_05_FLYING_IN_THE_SKY_鵜島仁文.txt"
+    }
+  ]
+}
